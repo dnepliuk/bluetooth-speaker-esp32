@@ -67,3 +67,5 @@ desktop.ini
 *.tmp
 *.temp
 *.log
+
+.history/
