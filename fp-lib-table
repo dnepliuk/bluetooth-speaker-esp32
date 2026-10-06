@@ -2,4 +2,5 @@
 	(version 7)
 	(lib (name "TPA3116D2") (type "KiCad") (uri "${KIPRJMOD}/lib/ul_TPA3116D2DAD/KiCADv6/TPA3116D2.pretty") (options "") (descr ""))
 	(lib (name "AO4407A") (type "KiCad") (uri "${KIPRJMOD}/lib/AO4407A/AO4407A.pretty") (options "") (descr ""))
+	(lib (name "SN74LVC2G126") (type "KiCad") (uri "${KIPRJMOD}/lib/SN74LVC2G126/footprints.pretty") (options "") (descr ""))
 )

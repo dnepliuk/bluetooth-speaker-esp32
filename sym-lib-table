@@ -3,4 +3,5 @@
 	(lib (name "BluetoothSpeaker_Symbols") (type "KiCad") (uri "${KIPRJMOD}/BluetoothSpeaker_Symbols.kicad_sym") (options "") (descr ""))
 	(lib (name "TPA3116D2") (type "KiCad") (uri "${KIPRJMOD}/lib/ul_TPA3116D2DAD/KiCADv6/TPA3116D2.kicad_sym") (options "") (descr ""))
 	(lib (name "AO4407A") (type "KiCad") (uri "${KIPRJMOD}/lib/AO4407A/AO4407A.kicad_sym") (options "") (descr ""))
+	(lib (name "SN74LVC2G126") (type "KiCad") (uri "${KIPRJMOD}/lib/SN74LVC2G126/SN74LVC2G126.kicad_sym") (options "") (descr ""))
 )
