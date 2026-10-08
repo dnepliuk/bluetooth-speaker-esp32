@@ -14637,7 +14637,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 516.89 457.708 90)
 			(hide yes)
 			(show_name no)
@@ -14798,7 +14798,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Relay_THT:Relay_DPDT_Schrack-RT2-FormC_RM5mm"
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D2.0mm_Drill1.0mm"
 			(at 607.06 270.51 0)
 			(hide yes)
 			(show_name no)
@@ -14877,7 +14877,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 840.232 100.33 90)
 			(hide yes)
 			(show_name no)
@@ -15038,7 +15038,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 930.6052 115.57 0)
 			(hide yes)
 			(show_name no)
@@ -15517,7 +15517,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D2.0mm_Drill1.0mm"
 			(at 535.94 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -15594,7 +15594,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
 			(at 831.85 304.8 0)
 			(hide yes)
 			(show_name no)
@@ -15791,7 +15791,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric"
 			(at 260.0452 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -15873,7 +15873,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 765.048 148.59 90)
 			(hide yes)
 			(show_name no)
@@ -15955,7 +15955,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 528.828 506.73 90)
 			(hide yes)
 			(show_name no)
@@ -16193,7 +16193,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 206.248 381 90)
 			(hide yes)
 			(show_name no)
@@ -16275,7 +16275,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-6"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 757.8852 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -16357,7 +16357,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D2.0mm_Drill1.0mm"
 			(at 435.61 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -16590,7 +16590,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "KiCad_WE-PD:L_Wurth_WE-PD-1050P"
 			(at 359.41 461.01 0)
 			(hide yes)
 			(show_name no)
@@ -16672,7 +16672,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 188.9252 483.87 0)
 			(hide yes)
 			(show_name no)
@@ -16752,7 +16752,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "KiCad_WE-PD:L_Wurth_WE-PD-1050P"
 			(at 384.81 427.99 0)
 			(hide yes)
 			(show_name no)
@@ -16834,7 +16834,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric"
 			(at 359.1052 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -17077,7 +17077,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
 			(at 786.13 280.67 0)
 			(hide yes)
 			(show_name no)
@@ -17195,7 +17195,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 406.0952 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -17479,7 +17479,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
 			(at 266.7 215.9 0)
 			(hide yes)
 			(show_name no)
@@ -17570,7 +17570,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 148.59 440.9948 0)
 			(hide yes)
 			(show_name no)
@@ -17650,7 +17650,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 529.59 123.698 90)
 			(hide yes)
 			(show_name no)
@@ -18026,7 +18026,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 577.5452 285.75 0)
 			(hide yes)
 			(show_name no)
@@ -18265,7 +18265,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric"
 			(at 409.9052 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -18505,7 +18505,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 507.492 374.65 90)
 			(hide yes)
 			(show_name no)
@@ -18755,7 +18755,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 704.85 131.318 90)
 			(hide yes)
 			(show_name no)
@@ -19087,7 +19087,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D2.0mm_Drill1.0mm"
 			(at 255.27 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -19164,7 +19164,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 775.97 89.662 90)
 			(hide yes)
 			(show_name no)
@@ -19428,7 +19428,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 518.16 445.008 90)
 			(hide yes)
 			(show_name no)
@@ -19510,7 +19510,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 301.9552 474.98 0)
 			(hide yes)
 			(show_name no)
@@ -20013,7 +20013,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 191.77 188.2648 0)
 			(hide yes)
 			(show_name no)
@@ -20093,7 +20093,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
 			(at 786.13 355.6 0)
 			(hide yes)
 			(show_name no)
@@ -20209,7 +20209,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
 			(at 786.13 304.8 0)
 			(hide yes)
 			(show_name no)
@@ -20406,7 +20406,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SMB"
 			(at 187.96 107.95 0)
 			(hide yes)
 			(show_name no)
@@ -20488,7 +20488,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 583.8952 300.99 0)
 			(hide yes)
 			(show_name no)
@@ -20726,7 +20726,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-6"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 577.85 250.4948 0)
 			(hide yes)
 			(show_name no)
@@ -20806,7 +20806,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-6"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 554.99 237.7948 0)
 			(hide yes)
 			(show_name no)
@@ -21042,7 +21042,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 519.43 274.828 90)
 			(hide yes)
 			(show_name no)
@@ -21691,7 +21691,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 514.35 467.868 90)
 			(hide yes)
 			(show_name no)
@@ -22007,7 +22007,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 631.19 284.988 90)
 			(hide yes)
 			(show_name no)
@@ -22087,7 +22087,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 171.45 465.328 90)
 			(hide yes)
 			(show_name no)
@@ -22248,7 +22248,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "KiCad_WE-PD:L_Wurth_WE-PD-1050P"
 			(at 393.7 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -22330,7 +22330,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D2.0mm_Drill1.0mm"
 			(at 158.75 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -22487,7 +22487,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-6"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 539.4452 161.29 0)
 			(hide yes)
 			(show_name no)
@@ -23070,7 +23070,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-6"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 594.36 289.8648 0)
 			(hide yes)
 			(show_name no)
@@ -23307,7 +23307,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
 			(at 247.65 205.74 0)
 			(hide yes)
 			(show_name no)
@@ -23389,7 +23389,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 221.9452 391.16 0)
 			(hide yes)
 			(show_name no)
@@ -23471,7 +23471,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric"
 			(at 430.2252 476.25 0)
 			(hide yes)
 			(show_name no)
@@ -23630,7 +23630,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_SPST_PTS645"
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
 			(at 147.32 215.9 0)
 			(hide yes)
 			(show_name no)
@@ -23791,7 +23791,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D8.0mm_P3.50mm"
 			(at 331.47 385.1148 0)
 			(hide yes)
 			(show_name no)
@@ -23873,7 +23873,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 757.682 161.29 90)
 			(hide yes)
 			(show_name no)
@@ -23955,7 +23955,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D2.0mm_Drill1.0mm"
 			(at 194.31 389.89 0)
 			(hide yes)
 			(show_name no)
@@ -24349,7 +24349,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-6"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 775.6652 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -24509,7 +24509,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Relay_THT:Relay_DPDT_Schrack-RT2-FormC_RM5mm"
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D2.0mm_Drill1.0mm"
 			(at 553.72 151.13 0)
 			(hide yes)
 			(show_name no)
@@ -24664,7 +24664,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 775.97 101.092 90)
 			(hide yes)
 			(show_name no)
@@ -24746,7 +24746,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric"
 			(at 374.3452 473.71 0)
 			(hide yes)
 			(show_name no)
@@ -24828,7 +24828,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 347.6752 478.79 0)
 			(hide yes)
 			(show_name no)
@@ -25383,7 +25383,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D8.0mm_P3.50mm"
 			(at 331.47 508.9652 0)
 			(hide yes)
 			(show_name no)
@@ -25621,7 +25621,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 340.0552 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -25701,7 +25701,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 548.64 445.008 90)
 			(hide yes)
 			(show_name no)
@@ -25781,7 +25781,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-6"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 577.85 239.0648 0)
 			(hide yes)
 			(show_name no)
@@ -25863,7 +25863,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 331.47 406.7048 0)
 			(hide yes)
 			(show_name no)
@@ -26262,7 +26262,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D2.0mm_Drill1.0mm"
 			(at 224.79 243.84 0)
 			(hide yes)
 			(show_name no)
@@ -26497,7 +26497,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 159.512 406.4 90)
 			(hide yes)
 			(show_name no)
@@ -26579,7 +26579,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 209.042 114.3 90)
 			(hide yes)
 			(show_name no)
@@ -26659,7 +26659,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 593.09 272.288 90)
 			(hide yes)
 			(show_name no)
@@ -26739,7 +26739,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 608.0252 267.97 0)
 			(hide yes)
 			(show_name no)
@@ -26901,7 +26901,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 525.272 435.61 90)
 			(hide yes)
 			(show_name no)
@@ -27061,7 +27061,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 149.352 424.18 90)
 			(hide yes)
 			(show_name no)
@@ -27143,7 +27143,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric"
 			(at 448.0052 121.92 0)
 			(hide yes)
 			(show_name no)
@@ -27223,7 +27223,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 646.7348 271.78 0)
 			(hide yes)
 			(show_name no)
@@ -27305,7 +27305,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 499.872 480.06 90)
 			(hide yes)
 			(show_name no)
@@ -27388,7 +27388,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 331.47 487.3752 0)
 			(hide yes)
 			(show_name no)
@@ -27627,7 +27627,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D2.0mm_Drill1.0mm"
 			(at 223.52 256.54 0)
 			(hide yes)
 			(show_name no)
@@ -27706,7 +27706,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 512.572 506.73 90)
 			(hide yes)
 			(show_name no)
@@ -27786,7 +27786,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 742.95 166.878 90)
 			(hide yes)
 			(show_name no)
@@ -27945,7 +27945,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "KiCad_WE-PD:L_Wurth_WE-PD-1050P"
 			(at 355.6 412.75 0)
 			(hide yes)
 			(show_name no)
@@ -28204,7 +28204,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 232.41 403.098 90)
 			(hide yes)
 			(show_name no)
@@ -28286,7 +28286,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 276.5552 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -28556,7 +28556,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 505.46 497.332 90)
 			(hide yes)
 			(show_name no)
@@ -28796,7 +28796,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-6"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 554.99 223.8248 0)
 			(hide yes)
 			(show_name no)
@@ -28878,7 +28878,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D2.0mm_Drill1.0mm"
 			(at 160.02 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -29191,7 +29191,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 234.442 207.01 90)
 			(hide yes)
 			(show_name no)
@@ -29431,7 +29431,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D2.0mm_Drill1.0mm"
 			(at 233.68 414.02 0)
 			(hide yes)
 			(show_name no)
@@ -29587,7 +29587,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 171.45 475.488 90)
 			(hide yes)
 			(show_name no)
@@ -29746,7 +29746,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 494.03 472.948 90)
 			(hide yes)
 			(show_name no)
@@ -29905,7 +29905,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 321.6148 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -29988,7 +29988,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 331.47 468.3252 0)
 			(hide yes)
 			(show_name no)
@@ -30068,7 +30068,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 547.37 123.698 90)
 			(hide yes)
 			(show_name no)
@@ -30382,7 +30382,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 528.32 272.288 90)
 			(hide yes)
 			(show_name no)
@@ -30543,7 +30543,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D2.0mm_Drill1.0mm"
 			(at 154.94 210.82 0)
 			(hide yes)
 			(show_name no)
@@ -30701,7 +30701,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 149.352 196.85 90)
 			(hide yes)
 			(show_name no)
@@ -30862,7 +30862,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-6"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 762.9652 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -30944,7 +30944,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D2.0mm_Drill1.0mm"
 			(at 147.32 463.55 0)
 			(hide yes)
 			(show_name no)
@@ -31021,7 +31021,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 511.81 277.368 90)
 			(hide yes)
 			(show_name no)
@@ -31340,7 +31340,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D2.0mm_Drill1.0mm"
 			(at 224.79 254 0)
 			(hide yes)
 			(show_name no)
@@ -31654,7 +31654,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D2.0mm_Drill1.0mm"
 			(at 612.14 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -31733,7 +31733,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Wurth_WE-CHSAP:L_Wurth_WE-CHSAP-8090"
 			(at 377.19 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -31814,7 +31814,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 388.3152 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -31894,7 +31894,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "KiCad_WE-PD:L_Wurth_WE-PD-1050P"
 			(at 415.29 463.55 0)
 			(hide yes)
 			(show_name no)
@@ -32300,7 +32300,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 536.702 144.78 90)
 			(hide yes)
 			(show_name no)
@@ -32382,7 +32382,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 517.652 374.65 90)
 			(hide yes)
 			(show_name no)
@@ -32856,7 +32856,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-6"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 795.9852 121.92 0)
 			(hide yes)
 			(show_name no)
@@ -33095,7 +33095,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 403.5552 457.2 0)
 			(hide yes)
 			(show_name no)
@@ -33176,7 +33176,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D2.0mm_Drill1.0mm"
 			(at 458.47 107.95 0)
 			(hide yes)
 			(show_name no)
@@ -33331,7 +33331,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 256.54 217.678 90)
 			(hide yes)
 			(show_name no)
@@ -33411,7 +33411,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 535.94 497.332 90)
 			(hide yes)
 			(show_name no)
@@ -33493,7 +33493,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 346.4052 434.34 0)
 			(hide yes)
 			(show_name no)
@@ -33653,7 +33653,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric"
 			(at 340.6648 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -33812,7 +33812,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-6"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 554.99 260.6548 0)
 			(hide yes)
 			(show_name no)
@@ -33894,7 +33894,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Relay_THT:Relay_DPDT_Schrack-RT2-FormC_RM5mm"
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D2.0mm_Drill1.0mm"
 			(at 519.43 288.29 0)
 			(hide yes)
 			(show_name no)
@@ -34365,7 +34365,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 717.2452 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -34681,7 +34681,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric"
 			(at 399.7452 440.69 0)
 			(hide yes)
 			(show_name no)
@@ -34998,7 +34998,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D2.0mm_Drill1.0mm"
 			(at 782.32 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -35153,7 +35153,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 232.41 415.798 90)
 			(hide yes)
 			(show_name no)
@@ -35472,7 +35472,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 190.5 450.088 90)
 			(hide yes)
 			(show_name no)
@@ -35630,7 +35630,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 134.62 204.1652 0)
 			(hide yes)
 			(show_name no)
@@ -35710,7 +35710,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 191.77 199.6948 0)
 			(hide yes)
 			(show_name no)
@@ -36047,7 +36047,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-6"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 770.5852 143.51 0)
 			(hide yes)
 			(show_name no)
@@ -36129,7 +36129,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 534.162 435.61 90)
 			(hide yes)
 			(show_name no)
@@ -36209,7 +36209,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-6"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 554.99 249.2248 0)
 			(hide yes)
 			(show_name no)
@@ -36291,7 +36291,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D2.0mm_Drill1.0mm"
 			(at 224.79 210.82 0)
 			(hide yes)
 			(show_name no)
@@ -36605,7 +36605,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 512.572 292.1 90)
 			(hide yes)
 			(show_name no)
@@ -36687,7 +36687,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 374.3452 444.5 0)
 			(hide yes)
 			(show_name no)
@@ -36769,7 +36769,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Relay_THT:Relay_DPDT_Schrack-RT2-FormC_RM5mm"
+		(property "Footprint" "TestPoint:TestPoint_THTPad_D2.0mm_Drill1.0mm"
 			(at 648.97 283.21 0)
 			(hide yes)
 			(show_name no)
@@ -36926,7 +36926,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric"
 			(at 426.4152 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -37559,7 +37559,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric"
 			(at 428.9552 121.92 0)
 			(hide yes)
 			(show_name no)
@@ -37955,7 +37955,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
 			(at 786.13 330.2 0)
 			(hide yes)
 			(show_name no)
@@ -38229,7 +38229,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric"
 			(at 368.3 397.8148 0)
 			(hide yes)
 			(show_name no)
@@ -38311,7 +38311,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 331.47 425.7548 0)
 			(hide yes)
 			(show_name no)
