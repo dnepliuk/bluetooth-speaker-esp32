@@ -1,4 +1,0 @@
-(design_block_lib_table
-	(version 7)
-	(lib (name "TPA3116D2") (type "KiCad") (uri "${KIPRJMOD}/lib/ul_TPA3116D2DAD/KiCADv6/TPA3116D2.pretty") (options "") (descr ""))
-)

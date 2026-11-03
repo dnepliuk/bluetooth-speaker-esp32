@@ -69,3 +69,5 @@ desktop.ini
 *.log
 
 .history/
+# Local restoration copies
+_restore_backup_*/
